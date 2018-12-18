@@ -12,7 +12,7 @@ class Foo implements PersonInterface{
     }
 }
 
-let aPerson: PersonInterface = new Foo();
+let aPersonInterface: PersonInterface = new Foo();
 
 let someObj = {
     firstName: "fn",
@@ -21,4 +21,4 @@ let someObj = {
     age: 10
 };
 
-aPerson = someObj;
+aPersonInterface = someObj;
