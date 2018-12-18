@@ -1,0 +1,19 @@
+{
+  "name": "typescriptbasics",
+  "version": "1.0.0",
+  "description": "THIS IS FOR TYPESCRIPT BASICS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidhurraj147/typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidhurraj147/typescript/issues"
+  },
+  "homepage": "https://github.com/vidhurraj147/typescript#readme"
+}

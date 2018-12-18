@@ -1,5 +1,5 @@
 class  PersonReadOnly{
-    readonly name;
+    readonly name: string;
     readonly desc = "ReadOnly Property added";
 
     constructor(name: string){
