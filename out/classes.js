@@ -1,4 +1,3 @@
-"use strict";
 var Person = /** @class */ (function () {
     // firstName: string;
     // lastName: string;

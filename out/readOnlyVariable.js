@@ -1,4 +1,3 @@
-"use strict";
 var PersonReadOnly = /** @class */ (function () {
     function PersonReadOnly(name) {
         this.desc = "ReadOnly Property added";
