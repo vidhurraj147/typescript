@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/vidhurraj147/typescript/issues"
   },
-  "homepage": "https://github.com/vidhurraj147/typescript#readme"
+  "homepage": "https://github.com/vidhurraj147/typescript#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.119"
+  }
 }
